@@ -9,6 +9,10 @@
    - npx tailwindcss init -p
    <!-- Above commands only works for tailwind 3 version not v4 so dont install latest as it wont work with above commands -->
 
+ - Header
+ - Login Form
+ - Sign up Form  
+
 
 # Features
  - Home Page
@@ -31,3 +35,7 @@
  - Netflix-GPT
    - Search Bar
    - Movie Suggestions          
+
+
+# Libraries to use
+ - Formik (Form Validations)   
